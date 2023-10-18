@@ -1,0 +1,28 @@
+1.buat new folder
+init node project
+'npm init -y'
+create http server pake library express
+- install express by running command
+npm i express'
+buat file js main baru (index.js)
+import express
+buat express apilcation
+start listen
+run dengan node index.js
+
+install nodemon agar tidak usah rerun server
+npm install nodemon
+run nodemon index.js
+
+1 lagi pakai script
+contohnya "start:"nodemon index.js"
+buat runningnya pake npm run start
+
+request handle for url GET '/'
+
+menambahkan default routing add '*'
+
+// add rest API 
+List 
+- GET <collection url>, no request body rsponse json
+for x /feeds

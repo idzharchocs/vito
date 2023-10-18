@@ -1,0 +1,7 @@
+install 
+-sequelize
+pg pg-hstore
+'npm i sequelize pg pg-hstore
+testing conecting database
+-make new conection 
+-test with method sequelize.authenticate()
